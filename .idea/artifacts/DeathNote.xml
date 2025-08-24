@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DeathNote">
+    <output-path>$PROJECT_DIR$/out/artifacts/DeathNote</output-path>
+    <root id="archive" name="DeathNote.jar">
+      <element id="module-output" name="DeathNote" />
+    </root>
+  </artifact>
+</component>

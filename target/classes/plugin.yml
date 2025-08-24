@@ -1,0 +1,9 @@
+main: ru.hastg9.DeathNote
+version: 0.1
+name: DeathNote
+author: HastG9
+api-version: 1.13
+commands:
+  givenote:
+    description: Gives death note.
+    usage: /givenote
